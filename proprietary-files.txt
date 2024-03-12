@@ -450,7 +450,7 @@ system/etc/permissions/com.motorola.camera2.denali.xml
 system/etc/permissions/com.motorola.motosignature.xml
 system/etc/permissions/privapp-permissions-com.motorola.camera2.xml|7d108928f254ddd31d853e0bc59fd9e2bc244241
 system/framework/com.motorola.motosignature.jar
-system/priv-app/MotCamera2/MotCamera2.apk
+system/priv-app/MotCamera2/MotCamera2.apk;OVERRIDES=Aperture
 
 # Camera - MotCamera2 (JNI)
 system/priv-app/MotCamera2/lib/arm64/libEvPlusAndroidLib.so|c0a549cefc5884ac935a4b2dff5a16b97b2b72a9
